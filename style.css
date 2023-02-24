@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: fit-content;
+    height: 60%;
+    border: 30px solid black;
+    margin: 0%;
+    text-align: center;
+    background-color:white;
+}
+.container h1{
+    align-items: flex-end;
+}
+.tittle{
+    font-size: medium;
+    color:black;
+    align-items: flex-end;
+
+}
+.biograph{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.image img{
+    height: 430px;
+    width: 400px;
+    border-radius: 30%;
+    overflow: hidden;
+    margin: 10px;
+    
+}
